@@ -2244,3 +2244,11 @@ body.page-template .post-title {
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
    ========================================================================== */
+
+.cover-yellow {
+  background-color: #f7df1e;
+}
+
+.cover-contain {
+  background-size: contain;
+}
