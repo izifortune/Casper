@@ -2249,6 +2249,11 @@ body.page-template .post-title {
   background-color: #f7df1e;
 }
 
+
+.cover-blue {
+  background-color: #2D77C7;
+}
+
 .cover-contain {
   background-size: contain;
 }
